@@ -32,16 +32,16 @@
   margin-right: 20px; }
 
 .nav__link:hover {
-  color: var(--custom-color); }
+  color: #00acdc; }
 
 .is-active {
   position: relative;
-  color: var(--custom-color); }
+  color: #00acdc; }
 
 .is-active::after {
   content: "";
   position: absolute;
-  background-color: var(--custom-color);
+  background-color: #00acdc;
   border-radius: 8px;
   left: 0;
   right: 0;
