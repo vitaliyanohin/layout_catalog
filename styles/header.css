@@ -26,7 +26,9 @@
   line-height: 60px;
   text-decoration: none;
   text-transform: uppercase;
-  color: #000; }
+  color: #000;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
 
 .nav__link:not(:last-child) {
   margin-right: 20px; }
